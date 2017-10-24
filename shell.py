@@ -59,3 +59,4 @@ if __name__ == '__main__':
     prompt.prompt = 'Unisal@Shell> '
     prompt.cmdloop('Starting the adventure')
 
+#Olá, eu sou o Evertinho!
